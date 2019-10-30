@@ -1,0 +1,2 @@
+git remote add origin https://github.com/kirill-155/repozitori.git
+git push -u origin master
